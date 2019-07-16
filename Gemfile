@@ -30,6 +30,7 @@ gem "twitter-bootstrap-rails"
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
 gem 'iex-ruby-client'
+gem 'font-awesome-rails'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
